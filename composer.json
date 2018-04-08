@@ -1,0 +1,19 @@
+{
+    "name": "jackwong/phpmailer",
+    "description": "php 邮件",
+    "keywords": ["L5", "Laravel 5", "Laravel", "mail", "php mail"],
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "jackwong",
+            "email": "wangchangat@163.com"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+            "Jackwong\\": "src"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
